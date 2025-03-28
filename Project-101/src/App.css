@@ -73,7 +73,7 @@ border-radius: 5px;
   width: auto;
   color: #e8e8e8;
 }
-.login {
+.login:hover {
   opacity: 100%;
   font-family: Arial, Helvetica, sans-serif;
   font-style: Roboto;
@@ -90,7 +90,7 @@ border-radius: 5px;
   margin-right: 6px;
 
 }
-.login:hover{
+.login{
   color: #090909;
   padding: 0.7em 1.7em;
   font-size: 18px;
