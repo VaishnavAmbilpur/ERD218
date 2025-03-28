@@ -17,6 +17,18 @@
   padding-right: 0px;
   overflow-x: hidden;
 }
+/* Mobile (default styles) */
+body { font-size: 14px; }
+
+/* Tablet (768px and up) */
+@media (min-width: 768px) {
+  body { font-size: 16px; }
+}
+
+/* Desktop (1024px and up) */
+@media (min-width: 1024px) {
+  body { font-size: 18px; }
+}
 .card {
   padding: 2em;
 }
